@@ -305,7 +305,7 @@ function matrix = sparse2matrix (cellvec)
     matrix = defult;
 end
 ```
-### Lesson -8 
+### Lesson - 8 
 **char_counter**
 Write a function called char_counter that counts the number of a certain character in a text file. The function takes two input arguments, fname, a char vector of the filename and character, the char it counts in the file. The function returns charnum, the number of characters found. If the file is not found or character is not a valid char, the function return -1. 
 ```matlab
